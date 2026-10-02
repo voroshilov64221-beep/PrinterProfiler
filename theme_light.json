@@ -1,0 +1,48 @@
+{
+  "general": {
+    "dpi_scaling": 1.0,
+    "default_geometry": "1500x980",
+    "min_geometry": "1280x900",
+    "appearance": "light"
+  },
+  "palette": {
+    "bg_root":    "#f4f5fa",
+    "bg_main":    "#ffffff",
+    "bg_surface": "#eceef6",
+    "bg_overlay": "#e2e5f0",
+    "bg_hover":   "#d3d8ea",
+    "bg_active":  "#c1c8e0",
+    "bg_log":     "#fbfcff",
+    "fg":         "#1a1c2a",
+    "fg_dim":     "#4a4d63",
+    "fg_muted":   "#70738a",
+    "fg_faint":   "#9a9db3",
+    "accent":     "#3b6fd4",
+    "sky":        "#2f9bd4",
+    "teal":       "#1f9a8a",
+    "green":      "#3f9a3f",
+    "yellow":     "#b8860b",
+    "orange":     "#d2691e",
+    "red":        "#c43a3a",
+    "pink":       "#c94a86",
+    "mauve":      "#7a5ac4",
+    "border":     "#d0d4e2",
+    "border_accent": "#b8bfd4"
+  },
+  "fonts": {
+    "title":      {"family": "Segoe UI", "size": 22, "weight": "bold"},
+    "subtitle":   {"family": "Segoe UI", "size": 13, "weight": "normal"},
+    "h2":         {"family": "Segoe UI", "size": 15, "weight": "bold"},
+    "body":       {"family": "Segoe UI", "size": 13, "weight": "normal"},
+    "small":      {"family": "Segoe UI", "size": 12, "weight": "normal"},
+    "tiny":       {"family": "Segoe UI", "size": 11, "weight": "normal"},
+    "btn":        {"family": "Segoe UI", "size": 13, "weight": "bold"},
+    "btn_small":  {"family": "Segoe UI", "size": 12, "weight": "bold"},
+    "mono":       {"family": "Consolas", "size": 14, "weight": "normal"},
+    "mono_log":   {"family": "Consolas", "size": 14, "weight": "normal"},
+    "mono_small": {"family": "Consolas", "size": 12, "weight": "normal"},
+    "metric":     {"family": "Segoe UI", "size": 24, "weight": "bold"},
+    "clock":      {"family": "Consolas", "size": 12, "weight": "normal"},
+    "author":     {"family": "Segoe UI", "size": 15, "weight": "bold"}
+  }
+}

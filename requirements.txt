@@ -1,0 +1,12 @@
+# ─── GUI ───
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# ─── Лицензирование ───
+cryptography>=41.0.0
+
+# ─── Windows: список принтеров ───
+pywin32>=306; sys_platform == "win32"
+
+# ─── Стандартные (не требуют установки, входят в Python) ───
+# tkinter, queue, json, os, sys, threading, subprocess, urllib

@@ -1,0 +1,104 @@
+{
+  "general": {
+    "dpi_scaling": 1.2,
+    "default_geometry": "1500x980",
+    "min_geometry": "1280x900",
+    "appearance": "dark"
+  },
+  "palette": {
+    "bg_root": "#0d0d16",
+    "bg_main": "#1a1a28",
+    "bg_surface": "#141420",
+    "bg_overlay": "#25253a",
+    "bg_hover": "#32324d",
+    "bg_active": "#3d3d5c",
+    "bg_log": "#0a0a12",
+    "fg": "#e8ebf5",
+    "fg_dim": "#a8adc4",
+    "fg_muted": "#7d8299",
+    "fg_faint": "#565b73",
+    "accent": "#7aa2f7",
+    "sky": "#7dcfff",
+    "teal": "#73daca",
+    "green": "#9ece6a",
+    "yellow": "#e0af68",
+    "orange": "#ff9e64",
+    "red": "#f7768e",
+    "pink": "#ff7eb6",
+    "mauve": "#bb9af7",
+    "border": "#2f2f45",
+    "border_accent": "#3d3d5c"
+  },
+  "fonts": {
+    "title": {
+      "family": "Segoe UI",
+      "size": 22,
+      "weight": "bold"
+    },
+    "subtitle": {
+      "family": "Segoe UI",
+      "size": 13,
+      "weight": "normal"
+    },
+    "h2": {
+      "family": "Segoe UI",
+      "size": 14,
+      "weight": "bold"
+    },
+    "body": {
+      "family": "Segoe UI",
+      "size": 13,
+      "weight": "normal"
+    },
+    "small": {
+      "family": "Segoe UI",
+      "size": 12,
+      "weight": "normal"
+    },
+    "tiny": {
+      "family": "Segoe UI",
+      "size": 12,
+      "weight": "normal"
+    },
+    "btn": {
+      "family": "Segoe UI",
+      "size": 13,
+      "weight": "bold"
+    },
+    "btn_small": {
+      "family": "Segoe UI",
+      "size": 12,
+      "weight": "bold"
+    },
+    "mono": {
+      "family": "Consolas",
+      "size": 14,
+      "weight": "normal"
+    },
+    "mono_log": {
+      "family": "Consolas",
+      "size": 16,
+      "weight": "normal"
+    },
+    "mono_small": {
+      "family": "Consolas",
+      "size": 12,
+      "weight": "normal"
+    },
+    "metric": {
+      "family": "Segoe UI",
+      "size": 26,
+      "weight": "bold"
+    },
+    "clock": {
+      "family": "Consolas",
+      "size": 12,
+      "weight": "normal"
+    },
+    "author": {
+      "family": "Segoe UI",
+      "size": 16,
+      "weight": "bold"
+    }
+  }
+}

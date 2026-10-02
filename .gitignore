@@ -1,0 +1,97 @@
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ─── Virtual environments ───
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ─── IDE ───
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── Проект: пользовательские данные ───
+printer_profiler_config.json
+ui_settings.json
+dpi_override.txt
+*.bak
+*.backup
+
+# ─── Логи и бэкапы ───
+logs/*
+!logs/.gitkeep
+backups/*
+!backups/.gitkeep
+profiles/*
+!profiles/.gitkeep
+
+# ─── Временные файлы ArgyllCMS ───
+*.ti1
+*.ti2
+*.ti3
+*.cht
+*.cie
+*.cgats
+*.sp
+*.spi
+*.mpp
+*.cal
+
+# ─── Скомпилированные ───
+*.exe
+*.dll
+*.pyd
+*.spec
+
+# ─── Прочее ───
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.cache
+admin.html
+ключи пароли.txt
+# ─── Личное: пароли и ключи ───
+ключи пароли.txt
+*парол*
+*password*
+*secret*
+*keys*
+*token*
+
+# ─── Админка (хранится в приватном репозитории) ───
+admin
+admin_printer/
+admin.html
+
+# ─── Прочие личные файлы ───
+*.txt
+!requirements.txt
