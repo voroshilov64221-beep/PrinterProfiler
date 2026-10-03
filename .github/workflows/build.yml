@@ -32,6 +32,7 @@ jobs:
         run: |
           pyinstaller --onefile --windowed --uac-admin `
             --name ArgyllPrinterProfiler `
+            --icon=app.ico `
             --hidden-import argyll_profiler.config `
             --hidden-import argyll_profiler.logger `
             --hidden-import argyll_profiler.profiler `
